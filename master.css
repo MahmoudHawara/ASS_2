@@ -1,0 +1,42 @@
+div {
+    font-weight: bold;
+    font-size: 3vw;
+    font-family: 'Amiri', serif;
+    font-family: 'Cairo', sans-serif;
+    text-align: center;
+    background-color: #cfcfcf;
+    padding: 0 0.3vw 0.3vw 0;
+    width: 85.1vw;
+    margin: 3vw auto;
+}
+
+h1 {
+    padding: 2.2vw 0;
+    margin: 0;
+    font-size: 2.5vw;
+}
+
+table,
+tr,
+td {
+    border: 0.2vw solid #7a9000;
+    border-collapse: collapse;
+    font-size: 1.8vw;
+}
+
+table {
+    width: 85vw;
+    height: 10vw;
+}
+
+.red-one{
+    background-color: #7b0000;
+}
+
+.yellow-one{
+    background-color: #96b200;
+}
+
+#first{
+    color: white;
+}
